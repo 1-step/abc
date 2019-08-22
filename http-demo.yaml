@@ -11,3 +11,4 @@ spec:
     spec:
       containers:
       - image: httpd
+        name: httpd
